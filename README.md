@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Lilit  👋 
+Welcome to my GitHub **LAjoyan**
 
-<!--
-**LAjoyan/LAjoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Future MLOps Engineer 🤖⚙️
+💻 I code in Python 🐍 
+📍 Live in Sweden 🌍
 
 Here are some ideas to get you started:
 
