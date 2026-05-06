@@ -25,11 +25,11 @@ My goal is to become an MLOps engineer and work with machine learning systems in
 ### 📂 Featured Projects
 
 🚕 Taxi Trip Price Prediction System  
-🔗 Live App  
+🔗 [Live App](https://taxipredictionfullstacklilit-l2xpcmcykhjy7wpaxisixr.streamlit.app/Route_Map)  
 Full-stack ML app (Streamlit + FastAPI) for real-time prediction.  
 
 📊 Sakila Analytics Dashboard  (My very first project where I only enjoyed every minute of SQL)
-🔗 Live App  
+🔗 [Live App](https://sakiladatabase.vercel.app/)  
 SQL & BI dashboard with DuckDB and interactive visualizations.  
 _My first project where I discovered my interest in working with SQL._  
 
