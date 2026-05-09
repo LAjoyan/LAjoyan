@@ -19,6 +19,7 @@ My goal is to become an MLOps engineer and work with machine learning systems in
 
 ### 🚀 What I'm Doing
 🔭 I’m currently working on [Fullstack_LLMops_Project](https://github.com/LAjoyan/Fullstack_LLMops_Project)
+
 🌱 I’m learning Machine Learning and exploring related areas
 
 ---
