@@ -1,4 +1,8 @@
-<img src="./LILIT%20AJOYAN.png" alt="Lilit Ajoyan Banner" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png.png">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.png.png">
+  <img alt="Lilit Ajoyan Banner" src="banner-light.png.png" width="100%">
+</picture>
 
 <p align="left">
   <code style="font-family: monospace; font-size: 13px; color: #8b949e; background-color: #161b22; padding: 12px 16px; border-radius: 6px; display: block; border: 1px solid #30363D;">
