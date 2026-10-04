@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png.png">
-  <source media="(prefers-color-scheme: light)" srcset="LAJOYAN_light1.png">
+  <source media="(prefers-color-scheme: light)" srcset="LAJOYAN_light2.png">
   <img alt="Lilit Ajoyan Banner" src="banner-light.png.png" width="100%">
 </picture>
 
