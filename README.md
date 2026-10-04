@@ -5,8 +5,8 @@
 </p>
 
 <p align="left">
-  <a href="[YOUR_PORTFOLIO_URL](https://github.com/LAjoyan/Portfolio-LAjoyan)>
-    <img src="https://img.shields.io/badge/🌐_Read_Full_Portfolio-21262D?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <a href="https://github.com/LAjoyan/Portfolio-LAjoyan">
+    <img src="https://img.shields.io/badge/Read_Full_Portfolio-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
