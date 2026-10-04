@@ -1,12 +1,14 @@
 <img src="./LILIT%20AJOYAN.png" alt="Lilit Ajoyan Banner" width="100%" />
 
 <p align="left">
-  <code>Aspiring MLOps Engineer focused on building robust data pipelines, scalable ML infrastructure, and production-ready AI systems.</code>
+  <code style="font-family: monospace; font-size: 13px; color: #8b949e; background-color: #161b22; padding: 12px 16px; border-radius: 6px; display: block; border: 1px solid #30363D;">
+    <span style="color: #79c0ff;">$ echo</span> "Aspiring MLOps Engineer focused on building robust data pipelines, scalable ML infrastructure, and production-ready AI systems."
+  </code>
 </p>
 
 <p align="left">
   <a href="https://github.com/LAjoyan/Portfolio-LAjoyan">
-    <img src="https://img.shields.io/badge/Read_Full_Portfolio-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/READ_FULL_PORTFOLIO-%2305080c?style=for-the-badge&logo=github&logoColor=white&color=%230d1117" alt="Portfolio" />
   </a>
 </p>
 
