@@ -12,7 +12,16 @@
 
 <p align="left">
   <a href="https://github.com/LAjoyan/Portfolio-LAjoyan">
-    <img src="https://img.shields.io/badge/READ_FULL_PORTFOLIO-%2305080c?style=for-the-badge&logo=github&logoColor=white&color=%230d1117" alt="Portfolio" />
+    <picture>
+      <!-- Dark mode button (Your original black button) -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/READ_FULL_PORTFOLIO-%2305080c?style=for-the-badge&logo=github&logoColor=white&color=%230d1117">
+      
+      <!-- Light mode button (New green button to match your banner) -->
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/READ_FULL_PORTFOLIO-2EA043?style=for-the-badge&logo=github&logoColor=white">
+      
+      <!-- Fallback button -->
+      <img alt="Read Full Portfolio" src="https://img.shields.io/badge/READ_FULL_PORTFOLIO-2EA043?style=for-the-badge&logo=github&logoColor=white">
+    </picture>
   </a>
 </p>
 
