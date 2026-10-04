@@ -1,11 +1,35 @@
-### Hi there, I'm Lilit 👋 |  Aspiring MLOps Engineer 
-Welcome to my GitHub profile! • 🌐 View my [portfolio](https://github.com/LAjoyan/Portfolio-LAjoyan/blob/main/README.md)
+<img src="./LILIT%20AJOYAN.png" alt="Lilit Ajoyan Banner" width="100%" />
 
-### 🛠️ Tech Stack & Tools
+<p align="left">
+  <code>Aspiring MLOps Engineer focused on building robust data pipelines, scalable ML infrastructure, and production-ready AI systems.</code>
+</p>
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages & Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
-| **ML & Data** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black" /> <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black" /> |
-| **MLOps, CI/CD & Cloud** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/CI%2FCD-0052CC?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> |
-| **Edge & Observability** | <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Evidence_BI-000000?style=flat-square" /> |
+<p align="left">
+  <a href="[YOUR_PORTFOLIO_URL](https://github.com/LAjoyan/Portfolio-LAjoyan/blob/main/README.md)">
+    <img src="https://img.shields.io/badge/🌐_Read_Full_Portfolio-21262D?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-21262D?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-21262D?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-21262D?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-21262D?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-21262D?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-21262D?style=flat-square&logo=duckdb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TimescaleDB-21262D?style=flat-square&logo=timescale&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-21262D?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-21262D?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-21262D?style=flat-square&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-21262D?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-21262D?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-21262D?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-21262D?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-21262D?style=flat-square&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-21262D?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-21262D?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Evidence_BI-21262D?style=flat-square&logo=data&logoColor=white" />
+</p>
