@@ -7,6 +7,17 @@
 <p align="left"><a href="https://git.io/typing-svg"><picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d"><source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=000000&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d"></picture></a></p>
 
 <p>
+
+  <p align="left">
+  <a href="https://github.com/LAjoyan/Portfolio-LAjoyan">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/READ_FULL_PORTFOLIO-%2305080c?style=for-the-badge&logo=github&logoColor=white&color=%230d1117">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/READ_FULL_PORTFOLIO-2EA043?style=for-the-badge&logo=github&logoColor=white">
+      <img alt="Read Full Portfolio" src="https://img.shields.io/badge/READ_FULL_PORTFOLIO-2EA043?style=for-the-badge&logo=github&logoColor=white">
+    </picture>
+  </a>
+</p>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
