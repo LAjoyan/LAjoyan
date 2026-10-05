@@ -5,13 +5,13 @@
 </picture>
 
 <p align="left">
-<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d)">
-<source media="(prefers-color-scheme: light)" srcset="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=2EA043&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=2EA043&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d)">
-<img alt="Typing SVG" src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d)">
-</picture>
-</a>
+  <a href="https://git.io/typing-svg">
+    <!-- Dark Mode: Neon Green (33FF99) -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d#gh-dark-mode-only" alt="Typing SVG" />
+    
+    <!-- Light Mode: Dark Green (2EA043) -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=2EA043&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d#gh-light-mode-only" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="left">
