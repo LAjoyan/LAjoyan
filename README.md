@@ -5,9 +5,9 @@
 </picture>
 
 <p align="left">
-  <code style="font-family: monospace; font-size: 13px; color: #8b949e; background-color: #161b22; padding: 12px 16px; border-radius: 6px; display: block; border: 1px solid #30363D;">
-    <span style="color: #79c0ff;">$ echo</span> "Aspiring MLOps Engineer focused on building robust data pipelines, scalable ML infrastructure, and production-ready AI systems."
-  </code>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=100&color=33FF99&background=0D1117&center=false&vCenter=true&width=800&lines=git+stash+push+-u+-m+%22WIP:+sensor+reading+loop%22+--+src_pico/main.py;git+checkout+main;git+reflog;docker-compose+up+-d" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="left">
