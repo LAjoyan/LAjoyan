@@ -74,6 +74,11 @@
     <img src="https://img.shields.io/badge/CI%2FCD-F05032?style=flat-square&logo=git&logoColor=white" alt="CI/CD">
   </picture>
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/pytest-21262D?style=flat-square&logo=pytest&logoColor=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
+    <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-21262D?style=flat-square&logo=docker&logoColor=white">
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
